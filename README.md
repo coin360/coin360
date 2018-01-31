@@ -18,7 +18,7 @@ Meet this years 100 most influential people in crypto - An eclectic mix of hacke
 
 ## About
 
-coin360 is an pesional project. The android app was developed by [Harsh Vyas](https://twitter.com/harshvyas13) & [Mehul Pangtey](https://twitter.com/mehulpangtey)
+coin360 is an personal project. The android app was developed by [Harsh Vyas](https://twitter.com/harshvyas13) & [Mehul Pangtey](https://twitter.com/mehulpangtey)
 
 ## FAQ
 
