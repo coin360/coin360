@@ -16,9 +16,14 @@ Our portfolio allows you to identify trends, changes and opportunities for tradi
 ### EXPERTS
 Meet this years 100 most influential people in crypto - An eclectic mix of hackers, academics, engineers, and journalists - all of whom are intensely focused on driving the cryptocurrency movement forward.
 
+## Downoad the app
+[![Coin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/220px-Get_it_on_Google_play.svg.png)](https://play.google.com/store/apps/details?id=com.currency.coin360&hl=en "Coin360")
+
+
+
 ## About
 
-coin360 is an personal project. The android app was developed by [Harsh Vyas](https://twitter.com/harshvyas13) & [Mehul Pangtey](https://twitter.com/mehulpangtey)
+coin360 is an personal project.
 
 ## FAQ
 
